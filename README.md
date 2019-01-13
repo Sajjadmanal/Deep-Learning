@@ -1,1 +1,1 @@
-Udacity Deep Learnng Nanodegree projects.
+Udacity Deep Learning Nanodegree projects.
