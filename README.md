@@ -1,1 +1,1 @@
-Udacity Deep Learning Challenge projects.
+Udacity Deep Learning Challenge project.
